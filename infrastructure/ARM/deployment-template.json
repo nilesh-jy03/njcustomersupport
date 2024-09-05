@@ -707,8 +707,8 @@
               "numberOfWorkers": "1"
           },
           "sku": {
-              "Tier": "Standard",
-              "Name": "S1"
+              "Tier": "Basic",
+              "Name": "B3"
           },
           "kind": "linux"
       },
